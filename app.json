@@ -1,0 +1,14 @@
+{
+    "name": "v2-heroku",
+    "description": "deploy v2ray tor on heroku",
+    "keywords": ["v2ray"],
+    "env": {
+        "UUID": {
+            "description": "v2ray UUID",
+            "value": "65a7ac3a-dc5f-4ba5-a943-185ccb01ed57"        
+        }
+    },
+    "website": "https://starts.sh",
+    "repository": "https://github.com/PHPtits/tkv2r",
+    "stack": "container"
+}
